@@ -16,6 +16,16 @@ outdoor2 = input("I'm good with tying knots and ropes.")
 
 music2 = input("I play a musical instrument well.")
 
+tech3 = input("I am familiar with coding softwares")
+
+outdoor3 = input("I enjoy camping")
+
+music3 = input(" listening to music calms me down")
+
+tech4 = input("I enjoy working with computers")a
+
+
+
 
 tech_final = int(tech1) + int(tech2)
 outdoor_final = int(outdoor1) + int(outdoor2)
